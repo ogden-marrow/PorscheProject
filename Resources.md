@@ -9,3 +9,7 @@
 [MCP_CAN_lib](https://github.com/coryjfowler/MCP_CAN_lib)
 
 [arduino-breitband-lambda](https://github.com/zweistein22/arduino-breitband-lambda)
+
+[Porsche-997-and-987-Gauge-Cluster-Operator](https://github.com/superman22x/Porsche-997-and-987-Gauge-Cluster-Operator)
+
+[Durametric coding options information manual](https://docs.google.com/spreadsheets/d/1Y8WWGzT_81MOMitQ_hv_-yKZTp0pwhEyyIpuiQo3xaI/edit?pref=2&pli=1#gid=1690443213)
